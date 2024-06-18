@@ -20,7 +20,7 @@ Email security is a key part of internet communication. But what are SPF, DKIM, 
 
 ## What Is This Guide For and Why Bother?
 
-If you are invovled in developing, supporting, or maintaining an application that sends emails, this guide is a must read. This guide is your key to peace of mind, knowing that your emails will reach your customers as intended and your domain is shielded from abuse from cybercriminals and spammers.
+If you are involved in developing, supporting, or maintaining an application that sends emails, this guide is a must read. This guide is your key to peace of mind, knowing that your emails will reach your customers as intended and your domain is shielded from abuse from cybercriminals and spammers.
 
 It's about ensuring they reach the intended destination - the recipient's inbox, not the spam or junk folder. For instance, You've built an e-commerce application or a SaaS platform that sends transactional emails like order confirmations or password resets or important customer notification emails. These emails are crucial touchpoints for your customers. But what if they never see them? What if these important communications end up in spam or junk? 
 
