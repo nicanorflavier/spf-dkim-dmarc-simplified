@@ -77,10 +77,10 @@ v=DKIM1; k=rsa; p=NICfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBolTXCqbxwoRBffyg2efs+D
 
 Here's the command I usually run to fetch that:
 ```bash
-dig TXT selector1._domainkey.yourdomain.com
+dig TXT selector1._domainkey.example.com
 ```
 
-Note: Replace `selector1` with your actual selector, and `yourdomain.com` with your actual domain. This command will fetch the DNS TXT record where your public code is stored.
+Note: Replace `selector1` with your actual selector, and `example.com` with your actual domain. This command will fetch the DNS TXT record where your public code is stored.
 
 ### DMARC (Domain-based Message Authentication, Reporting & Conformance)
 
